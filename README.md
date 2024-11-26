@@ -23,3 +23,8 @@ The **Word List Management System (WLMS)** is an application developed as part o
 ## License
 
 This project is licensed under the MIT License - see the [MIT License](https://opensource.org/licenses/MIT) for details.
+
+## Additional Information
+
+For more detailed information about the system’s design, requirements, and technical specifications, please refer to the **Software Requirements Specification (SRS) document** provided in the project repository. The SRS contains a comprehensive overview of functionality, system architecture, and design considerations.
+
