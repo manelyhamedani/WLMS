@@ -6,8 +6,8 @@ The **Word List Management System (WLMS)** is an application developed as part o
 ## Team Members
 
 - **Manely Ghasemnia Hamedani** - [GitHub Profile](https://github.com/manelyhamedani)
-- **Fatemeh Ghodrati** - [GitHub Profile]
-- **Kosar Sohani** - [GitHub Profile]
+- **Fatemeh Ghodrati** - [GitHub Profile](https://github.com/Fatemeh-Ghodrati)
+- **Kosar Sohani** - [GitHub Profile](https://github.com/KosarSohani)
 
 ## Key Features
 - **User Authentication**: Sign-up, login, and password management for secure access.
